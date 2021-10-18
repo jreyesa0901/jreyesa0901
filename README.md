@@ -2,7 +2,7 @@
 - 👀 I’m interested in open source for industrial applications.
 - 🌱 I’m currently learning embedded systems development, specifically software; however, with hardware development experience.
 - 💞️ I’m looking to collaborate on open technology for industrial automation and security.
-- 📫 How to reach me: I'll leave my CV (click this [link](https://github.com/jreyesa0901/jreyesa0901/blob/c41156e466ee5890f483f67e4c8e446c622dd81b/CV_2021_Reyes_English_wS.pdf?raw=true) )
+- 📫 How to reach me: I'll leave my CV (click this [link](https://github.com/jreyesa0901/jreyesa0901/blob/main/CV_2021_Reyes_English__no_foto_.pdf?raw=true) )
 - Coming updates: 
 * Projektarbeit report
 * Eagle projekt
